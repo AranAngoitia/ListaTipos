@@ -1,0 +1,15 @@
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\bin\Debug\net7.0\ListaTipos.exe
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\bin\Debug\net7.0\ListaTipos.deps.json
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\bin\Debug\net7.0\ListaTipos.runtimeconfig.json
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\bin\Debug\net7.0\ListaTipos.dll
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\bin\Debug\net7.0\ListaTipos.pdb
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ListaTipos.vbproj.AssemblyReference.cache
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ListaTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ListaTipos.AssemblyInfoInputs.cache
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ListaTipos.AssemblyInfo.vb
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ListaTipos.vbproj.CoreCompileInputs.cache
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ListaTipos.dll
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\refint\ListaTipos.dll
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ListaTipos.pdb
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ListaTipos.genruntimeconfig.cache
+C:\Users\aango\source\repos\ListaTipos\ListaTipos\obj\Debug\net7.0\ref\ListaTipos.dll
